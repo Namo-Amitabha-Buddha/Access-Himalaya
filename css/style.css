@@ -409,7 +409,8 @@ button#Search:hover {
 .container-body {
 	 font-family: Helvetica Neue, Helvetica, Arial, Sans-serif;
 	 width: 65%;
-	 height:1182px;
+	 display: flex;
+	 justify-content: space-between;
 	 margin: auto;
 	margin-bottom:20px;
 }
